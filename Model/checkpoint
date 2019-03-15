@@ -1,0 +1,2 @@
+model_checkpoint_path: "V3_compression.ckpt"
+all_model_checkpoint_paths: "V3_compression.ckpt"
